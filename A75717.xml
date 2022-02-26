@@ -1,0 +1,167 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The speech of William Ashhurst Esquire; one of the commissioners of the Parliament of England, at Edenborough, the 28 of Febr. 1647 Upon their first hearing by a committee of Lords and others, appointed for that purpose by the committee of estates of Scotland; as it was taken by one that was then present.</title>
+            <author>Ashhurst, William, 1617-1680.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75717</idno>
+            <idno type="STC">Wing A3978A</idno>
+            <idno type="STC">ESTC R231625</idno>
+            <idno type="EEBO-CITATION">99897449</idno>
+            <idno type="PROQUEST">99897449</idno>
+            <idno type="VID">137177</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75717)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 137177)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2487:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The speech of William Ashhurst Esquire; one of the commissioners of the Parliament of England, at Edenborough, the 28 of Febr. 1647 Upon their first hearing by a committee of Lords and others, appointed for that purpose by the committee of estates of Scotland; as it was taken by one that was then present.</title>
+                  <author>Ashhurst, William, 1617-1680.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the yeare 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With "A copy of a letter from Scotland to a friend in London, in which the speech was inclosed" on pages 7-8.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland --  Foreign relations --  England --  Early works to 1800.</term>
+               <term>England --  Foreign relations --  Scotland --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:137177:1"/>
+            <p>THE SPEECH OF <hi>WILLIAM ASHH<g ref="char:V">Ʋ</g>RST</hi> ESQUIRE; One of the Commiſsioners of the <hi>Parliament</hi> of ENGLAND, at <hi>Edenborough,</hi> the 28 of <hi>Febr.</hi> 1647.</p>
+            <p>Upon their firſt hearing by a Com<g ref="char:EOLhyphen"/>mittee of LORDS and others, appointed for that purpoſe by the Committee of <hi>Eſtates</hi> of <hi>SCOTLAND;</hi> as it was taken by one that was then preſent.</p>
+            <p>
+               <hi>LONDON:</hi> Printed in the Yeare 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:137177:2"/>
+            <pb n="3" facs="tcp:137177:2" rendition="simple:additions"/>
+            <head>The SPEECH OF <hi>William Aſhhurſt</hi> Eſquire; One of the Commiſſioners of the PARLIAMENT of ENGLAND, at <hi>Edinburrough,</hi> the 28. of <hi>Feb.</hi> 1647.</head>
+            <head type="sub">Upon their firſt hearing by a Committee of <hi>Lords</hi> and others, appointed for that purpoſe by the Committee of <hi>Eſtates</hi> of <hi>Scotland;</hi> as it was taken by one <hi>that was then preſent.</hi>
+            </head>
+            <opener>
+               <salute>My Lords and Gentlemen:</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Am commanded by the reſt of the Commiſſioners of the Parliament of <hi>England,</hi> to acknowledge your Lordſhips favour and reſpect, in appointing our lodging to be the place where you will receive our Addreſſes to the Honorable Committee of Eſtates; for which I am to return Thanks unto your Lordſhips.</p>
+            <p>For our buſineſſe I am to acquaint your Lordſhips, that the chiefeſt end why we are ſent hither by both Houſes of the Par<g ref="char:EOLhyphen"/>liament of <hi>England,</hi> is, to maintain a good Correſpondence be<g ref="char:EOLhyphen"/>twixt them, and the Parliament, Conventions, and Committee of Eſtates of this Kingdom, and to continue and preſerve the Union and brotherly Agreement that we hope (by the bleſſing of God) will ever be betwixt both Kingdoms.</p>
+            <p>My Lords, I conceive that I need not ſay much to inforce this part of our Negotiation, when I conſider by how many wayes God and Nature hath united us. We are two Kingdoms in one Iſland, of one language, under one King, and (which is more then all) profeſſing one Religion: I cannot but look upon theſe as many cords that cannot eaſily be broken. Wherein I am the more abundantly confident, when I conſider what we have added to them of later times, by Treaties, Leagues, and eſpecially by ſolemn Covenants betwixt our ſelves, and be<g ref="char:EOLhyphen"/>twixt
+<pb n="4" facs="tcp:137177:3"/> God and us for <hi>
+                  <g ref="char:V">Ʋ</g>nion,</hi> which have been ſealed with ſo much Blood, and ſeconded with ſuch ſucceſſe and bleſſing from heaven. And when I further conſider that we have been ſo long united in one common Cauſe, wherein ſo many of both Nati<g ref="char:EOLhyphen"/>ons have hazarded their lives, and againſt a common Enemie, by whom ſo many of both Kingdoms have loſt their lives, and others their eſtates; And that (as we have common Enemies, ſo) we have common Friends, and common Intereſts; And (as I hope it will appear at laſt) common Ends. And all theſe are ac<g ref="char:EOLhyphen"/>companied with great advantages by our Union, not onely in a comfortable converſe and communion, and a profitable Trade and converſe betwixt the people of both Kingdoms; But with ſo great an aſſurance of publick ſafetie in the prayers and Arms of both Kingdoms united, that (if we do not fooliſhly, and make God our Enemie) we need not fear any (nor all) earthly powers that can be raiſed up againſt us.</p>
+            <p>Beſides all this (my Lords) ſhall I onely ſay <hi>England,</hi> nay I hope that I may ſay <hi>Scotland</hi> alſo, hath other ſtrong ingage<g ref="char:EOLhyphen"/>ments to Union. <hi>England,</hi> I am confident, will not (nay it can<g ref="char:EOLhyphen"/>not) forget their ſeaſonable aſſiſtance from this Nation. And <hi>Scotland</hi> (I doubt not) will remember, that both theſe Houſes of Parliament (at their firſt ſitting) could not be drawn by all the earneſt endeavours of the Malignant and Prelaticall party (who were then exceeding powerfull) to ingage or aſſiſt when it was againſt their Brethren of <hi>Scotland,</hi> which I do the rather now mention, becauſe that partie in <hi>England</hi> who would have ingaged us againſt <hi>Scotland</hi> at the firſt, and ſince, have been in Arms againſt both Kingdoms, are now renewing their mani<g ref="char:EOLhyphen"/>fold former endeavours to divide us; By ſowing jealouſies, and fomenting diſcontents, thereby hoping we ſhould do that for them they could never by all their policie and power do for themſelves. But the more it ſtands with their intereſt to divide us, the more it muſt needs be ours to unite; And the ſtronger ſeige they lay to our Union, the more it ſtands us upon to for<g ref="char:EOLhyphen"/>tifie it.</p>
+            <p>
+               <hi>My Lords,</hi> I wonder at the confidence of our Enemies, that can hope for our Diviſions; do they look upon us as men ſo al<g ref="char:EOLhyphen"/>together void of Reaſon, that we ſhould not ſee or conſider,
+<pb n="5" facs="tcp:137177:3"/> That diſſentions amongſt Brethren muſt neceſſarily very much weaken, and doth uſually prove deſtructive to both; And that if it ſhould fall amongſt us at this time, it were far more proba<g ref="char:EOLhyphen"/>ble now when the Popiſh, Prelaticall, and Malignant, are ſo much ſtrengthened by a diſcontented party, (though we ſhould both reſolve the contrary) to bring in Tyrannie and Epiſcopa<g ref="char:EOLhyphen"/>cie (it may be Popery) then be any good means for the eſtabliſh<g ref="char:EOLhyphen"/>ment of the known Truths of God amongſt us, or a right Diſci<g ref="char:EOLhyphen"/>pline in the Church, or a good and peaceable Government in the Kingdoms, the things ſo much deſired by all good men.</p>
+            <p>
+               <hi>My Lords,</hi> Diviſion is the Devils work at all times, and it would be more eſpecially ſo amongſt us at this time when the Aids ſought for in all parts by the bloodie <hi>Iriſh</hi> Rebels fails them, and they have no other hopes of ſubſiſtance under Hea<g ref="char:EOLhyphen"/>ven left; theſe things conſidered, if yet we ſhould fall into diſ<g ref="char:EOLhyphen"/>ſentions amongſt our ſelves, not onely all the Proteſtants in the world would condemn us, but we ſhould ingage the God of all the world againſt us, to whom we have ſworn to preſerve the Union, and then what could we expect but ruins, upon which might be written, <hi>Theſe were they that</hi> (when there was no other viſible way to effect it) <hi>did with the fooliſh woman in the Proverb, pull down their houſe with their own hands.</hi>
+            </p>
+            <p>
+               <hi>My Lords,</hi> To deal freely with your Lordſhips, I have ſpoken the more upon this point, becauſe we hear (which it may be your Lordſhips do not) that ſome of our great <hi>Engliſh</hi> Delin<g ref="char:EOLhyphen"/>quents are at this time come too or neer this City, if their buſi<g ref="char:EOLhyphen"/>neſſe be to blowe coals betwixt us, we hope they will never be able to kindle them to a fire, eſpecially when not onely the Mi<g ref="char:EOLhyphen"/>niſters, and good people of both Kingdoms, and poore bleeding <hi>Ireland,</hi> and all the Proteſtants in Chriſtendome (whoſe intereſt and welfare is much lapt up in it) do all cry to us to take heed unto, and preſerve our Union. But the great God of Heaven and Earth, to whom we have ſworn it, bids us look to it at our perils, leſt he bring upon the breakers of it Ruin without reme<g ref="char:EOLhyphen"/>die; And onely thoſe (for the moſt part) that have been, and I fear will ſtill be found to be our Enemies, incite us to diviſion, where it is thus unequally dealt I hope our choiſe will ſoon be made. And for the Parliament of <hi>England</hi> we do aſſure your
+<pb n="6" facs="tcp:137177:4"/> Lordſhips, it is their reall reſolution to preſerve the Union, and in order to it to do all juſt and honourable things for the ſatiſ<g ref="char:EOLhyphen"/>faction of this Nation; Nor can we doubt but the like affection and reſolution will appear in the Parliament and Committee of Eſtates of <hi>Scotland.</hi> And for my Lord <hi>Nottingham,</hi> and the reſt of us that are come hither upon this Imployment, we are ſen<g ref="char:EOLhyphen"/>ſible that what we have depends upon the welfare of theſe Kingdoms, which in a great part reſts upon their peace and Union, for the preſervation whereof we are reſolved to contri<g ref="char:EOLhyphen"/>bute our greateſt care and utmoſt endeavour; And to carrie our ſelves with all reſpect to this Kingdom, whereunto all of us have generall, and ſome of us former particular obligations.</p>
+            <p>
+               <hi>My Lords,</hi> I have done: the reſt is onely the tender of ſome Papers I am commanded to deliver to your Lordſhips, whereof I ſhall ſpeak little; onely thus much for the firſt that concerns the preſervation of the Union and brotherly Agreement be<g ref="char:EOLhyphen"/>twixt the Kingdoms: which although it be the ſame (for the moſt part) which we have alreadie ſent to the Honorable Com<g ref="char:EOLhyphen"/>mittee of Eſtates, yet we thought fit now to offer it to your Lordſhips, becauſe we knew not how far your Lordſhips would regularly take notice of what we have done, untill it come to you in a way of your own deſigning. For the reſt, one is con<g ref="char:EOLhyphen"/>cerning the payment of the 100000 l. the other, A Propoſition in order to give ſatisfaction unto the <hi>Scottiſh</hi> Armie in <hi>Ireland.</hi> For however it hath pleaſed God to exerciſe the Kingdom of <hi>England</hi> with ſore troubles, that have occaſioned a vaſt expence, which they could neither prevent nor foreſee; Yet both Houſes of the Parliament of <hi>England</hi> are fully reſolved to ſatisfie all their juſt Ingagements by all the wayes and means that lyes in their power. Which is all I ſhall trouble your Lordſhips at this time.</p>
+         </div>
+         <div type="letter">
+            <pb n="7" facs="tcp:137177:4"/>
+            <head>A Copy of a Letter from <hi>Scotland</hi> to a Friend in <hi>London,</hi> in which the Speech was incloſed.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THe common Diſcourſe here, is how far the <hi>Scottiſh</hi> Armie is advanced into <hi>England,</hi> and how little op<g ref="char:EOLhyphen"/>poſition they are like to meet with; yet we are confident God will meet with them that have ſo unrighteouſly in<g ref="char:EOLhyphen"/>vaded your Kingdom. In the mean time they are uplift<g ref="char:EOLhyphen"/>ing more men to ſtrengthen themſelves againſt you and us; But our Kirk (deſpiſing all danger) do ſtill declare and ſtick to their old principles, and propheſie their ruin: and we are glad to ſee ſuch a letter to them from the Houſe of <hi>Commons,</hi> which gives great ſatisfaction to ho<g ref="char:EOLhyphen"/>neſt men here, as doth the dinted tranſactions betwixt our Parliament and Committee of Eſtates, and your Commiſſioners of <hi>England</hi> (who carried themſelves with great integritie to the Parliament that truſted them, and unblameable to all) in which paſſages we ſee how reaſon<g ref="char:EOLhyphen"/>able their offers were, and what unreaſonable Anſwers were returned to them. And yet God ſuffers wicked men to be over us, but I am perſwaded that it will not be long for the prayer of his faithfull people in both Kingdoms will be heard. And however theſe wicked Malignants in our Kingdom have broken the Treaties with <hi>England,</hi> and do uſe the utmoſt endeavours to break the Union be<g ref="char:EOLhyphen"/>twixt both Kingdoms, yet if you in <hi>England</hi> ſhould take occaſion thereby to break off from us, or that advantage to make the breach Nationall, as you would gratifie the Malignants of both Kingdoms who have long deſigned
+<pb n="8" facs="tcp:137177:5"/> and endeavoured it, ſo you would be unfaithfull to God unto whom you have ſworn to preſerve the Union; and exceeding unkind to us, who have loſt our goods, and ha<g ref="char:EOLhyphen"/>zarded our lives in oppoſing thoſe here who laboured to break it, with whom if we ſhould have concurred, we could have had a viſible ſecuritie to our ſelves, and have raiſed thrice as great a ſtrength here, and made a farre greater partie to have oppoſed you in <hi>England;</hi> Beſides it would be a diſadvantage to your Nation as well as ours (at leaſt the honeſt partie in both) as was well ex<g ref="char:EOLhyphen"/>preſſed by Mr. <hi>Aſhhurſt</hi> in a Speech at the firſt coming of the Commiſſioners; A Copie whereof (as it was than taken by one that heard it) is here incloſed: which al<g ref="char:EOLhyphen"/>though I would not have you to publiſh commonly without his conſent, yet though he ſhould not be in Town I pray you get ſome Copies printed at my charge, and put it to acc<gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, and ſend them to me by the firſt ſafe opportunitie; onely out of them ſend ſome few Copies to my good Friends Mr. <hi>Goodwine,</hi> and Collonel <hi>Birch:</hi> but let them not know that they come from</p>
+            <closer>
+               <signed>Your very loving Friend, J. L.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
